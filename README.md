@@ -1,4 +1,5 @@
-# Vehicle Counting and Lane Detection using OpenCV
+# Real-Time Traffic Detection System Using OpenCV and Python
+
 
 This project detects vehicles in two lanes of a video feed, counts them, and tracks their movement across predefined lines using OpenCV. It applies background subtraction, contour detection, and object tracking techniques to identify vehicles and count them based on their positions in the lanes.
 
